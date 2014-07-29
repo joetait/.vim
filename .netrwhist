@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/jtait/files/Documents/Maths'
 let g:netrw_dirhist_2='/home/jtait/files/Documents/Maths/My work/PaperwithBernhard/Basis theorem/Riemann'
 let g:netrw_dirhist_3='/home/jtait/test'
 let g:netrw_dirhist_4='/home/jtait/Desktop'
 let g:netrw_dirhist_5='/home/jtait/files/tex/mywork'
 let g:netrw_dirhist_6='/home/joe/files/tex/mywork/Thesis/dimension'
+let g:netrw_dirhist_7='/home/jtait/texmf/bibtex/bib'
